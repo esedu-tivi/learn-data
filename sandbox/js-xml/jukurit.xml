@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamName>Mikkeli Jukurit</teamName>
+<teamLogo>https://www.liiga.fi/assets/images/logos/jukurit.png</teamLogo>
+<players>
+  <player>
+    <name>Joonas Kalliola</name>
+    <number>9</number>
+    <position>C</position>
+    <age>35</age>
+    <height>180</height>
+    <weight>82</weight>
+    <goals>10</goals>
+    <assists>15</assists>
+    <points>25</points>
+    <penaltyMinutes>18</penaltyMinutes>
+  </player>
+  <player>
+    <name>Ville Leskinen</name>
+    <number>19</number>
+    <position>RW</position>
+    <age>26</age>
+    <height>182</height>
+    <weight>85</weight>
+    <goals>12</goals>
+    <assists>13</assists>
+    <points>25</points>
+    <penaltyMinutes>14</penaltyMinutes>
+  </player>
+  <player>
+    <name>Miika Roine</name>
+    <number>21</number>
+    <position>LW</position>
+    <age>29</age>
+    <height>184</height>
+    <weight>86</weight>
+    <goals>11</goals>
+    <assists>12</assists>
+    <points>23</points>
+    <penaltyMinutes>16</penaltyMinutes>
+  </player>
+  <player>
+    <name>Axel Rindell</name>
+    <number>4</number>
+    <position>D</position>
+    <age>21</age>
+    <height>181</height>
+    <weight>80</weight>
+    <goals>8</goals>
+    <assists>14</assists>
+    <points>22</points>
+    <penaltyMinutes>20</penaltyMinutes>
+  </player>
+  <player>
+    <name>Samuli Piipponen</name>
+    <number>5</number>
+    <position>D</position>
+    <age>28</age>
+    <height>188</height>
+    <weight>92</weight>
+    <goals>4</goals>
+    <assists>11</assists>
+    <points>15</points>
+    <penaltyMinutes>24</penaltyMinutes>
+  </player>
+  <player>
+    <name>Eetu Randelin</name>
+    <number>30</number>
+    <position>G</position>
+    <age>24</age>
+    <height>186</height>
+    <weight>83</weight>
+    <gamesPlayed>25</gamesPlayed>
+    <wins>10</wins>
+    <losses>12</losses>
+    <ties>3</ties>
+    <goalsAgainstAverage>2.78</goalsAgainstAverage>
+    <savePercentage>0.908</savePercentage>
+    <shutouts>2</shutouts>
+  </player>
+</players>
